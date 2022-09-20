@@ -9,7 +9,7 @@
     >
 
 
-    //reason for using enjoy\neating will bring enjoy on top of eating
+
 
     <TextView
         android:id="@+id/textView"
